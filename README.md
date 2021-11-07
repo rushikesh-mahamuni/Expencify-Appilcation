@@ -2,7 +2,14 @@
 # Expencify 
  
  Application to track your daily expences.
+## Installation
 
+Install this Project with npm
+
+```bash
+  npm install
+  
+```
 
 
 
